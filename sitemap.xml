@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://psiconsult.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://psiconsult.github.io/</loc>
+</url>
+<url>
+<loc>https://psiconsult.github.io/landing-page.html</loc>
+<lastmod>2024-01-26T12:40:50-03:00</lastmod>
+<image:image>
+<image:loc>https://psiconsult.github.io/media/posts/2/psicoterapia-3.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://psiconsult.github.io/media/posts/2/marcos-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://psiconsult.github.io/media/posts/2/leni.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://psiconsult.github.io/media/posts/2/samanta.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
