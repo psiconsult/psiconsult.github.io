@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Psiconsult</title>
-    <link href="https://psiconsult.github.io/feed.xml" rel="self" />
-    <link href="https://psiconsult.github.io" />
+    <link href="https://psiconsult.com.br/feed.xml" rel="self" />
+    <link href="https://psiconsult.com.br" />
     <updated>2024-01-26T12:40:50-03:00</updated>
     <author>
         <name>Psiconsult</name>
     </author>
-    <id>https://psiconsult.github.io</id>
+    <id>https://psiconsult.com.br</id>
 
     <entry>
         <title>Psicologia</title>
         <author>
             <name>Psiconsult</name>
         </author>
-        <link href="https://psiconsult.github.io/landing-page.html"/>
-        <id>https://psiconsult.github.io/landing-page.html</id>
+        <link href="https://psiconsult.com.br/landing-page.html"/>
+        <id>https://psiconsult.com.br/landing-page.html</id>
 
         <updated>2024-01-26T12:40:50-03:00</updated>
             <summary>
@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <h2><figure class="post__image"><img decoding="async" loading="lazy"  src="https://psiconsult.github.io/media/posts/2/psicoterapia-3.jpg" alt="" width="1920" height="501" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://psiconsult.github.io/media/posts/2/responsive/psicoterapia-3-xs.jpg 300w ,https://psiconsult.github.io/media/posts/2/responsive/psicoterapia-3-sm.jpg 480w ,https://psiconsult.github.io/media/posts/2/responsive/psicoterapia-3-md.jpg 768w ,https://psiconsult.github.io/media/posts/2/responsive/psicoterapia-3-lg.jpg 1024w"></figure></h2>
+                <h2><figure class="post__image"><img decoding="async" loading="lazy"  src="https://psiconsult.com.br/media/posts/2/psicoterapia-3.jpg" alt="" width="1920" height="501" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://psiconsult.com.br/media/posts/2/responsive/psicoterapia-3-xs.jpg 300w ,https://psiconsult.com.br/media/posts/2/responsive/psicoterapia-3-sm.jpg 480w ,https://psiconsult.com.br/media/posts/2/responsive/psicoterapia-3-md.jpg 768w ,https://psiconsult.com.br/media/posts/2/responsive/psicoterapia-3-lg.jpg 1024w"></figure></h2>
 <h2 id="atuacao">Áreas de Atuação</h2>
 <p> </p>
 <details>
@@ -55,7 +55,7 @@
 <p><a href="mail:contato@psiconsult.com.br">[fi=mail] contato@psiconsult.com.br</a></p>
 <hr>
 <h2 id="equipe">Equipe</h2>
-<figure id="marcos" style="text-align: center;"><img decoding="async" loading="lazy" title="Marcos Suguiura" src="https://psiconsult.github.io/media/posts/2/marcos-2.jpg" width="200" height="204" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://psiconsult.github.io/media/posts/2/responsive/marcos-2-xs.jpg 300w ,https://psiconsult.github.io/media/posts/2/responsive/marcos-2-sm.jpg 480w ,https://psiconsult.github.io/media/posts/2/responsive/marcos-2-md.jpg 768w ,https://psiconsult.github.io/media/posts/2/responsive/marcos-2-lg.jpg 1024w">
+<figure id="marcos" style="text-align: center;"><img decoding="async" loading="lazy" title="Marcos Suguiura" src="https://psiconsult.com.br/media/posts/2/marcos-2.jpg" width="200" height="204" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://psiconsult.com.br/media/posts/2/responsive/marcos-2-xs.jpg 300w ,https://psiconsult.com.br/media/posts/2/responsive/marcos-2-sm.jpg 480w ,https://psiconsult.com.br/media/posts/2/responsive/marcos-2-md.jpg 768w ,https://psiconsult.com.br/media/posts/2/responsive/marcos-2-lg.jpg 1024w">
 <figcaption>
 <h6>Marcos Suguiura (CRP 06/56214)<br>PSICOTERAPEUTA E ORIENTADOR PROFISSIONAL<br><a href="https://api.whatsapp.com/send?phone=5511996811097">[fi=message-circle]</a> <a href="https://br.linkedin.com/in/marcos-suguiura-77688814">[fi=linkedin]</a></h6>
 </figcaption>
@@ -68,7 +68,7 @@
 <li>Utiliza-se basicamente da Abordagem Humanista Centrada na Pessoa na prática psicoterápica. Efetua ainda atendimento em língua japonesa.</li>
 <li>Atua também como professor de língua japonesa na Escola Kamae Gakuen.</li>
 </ul>
-<figure id="leni" style="text-align: center;"><img decoding="async" loading="lazy" title="Maria Leni Benfica" src="https://psiconsult.github.io/media/posts/2/leni.jpg" width="200" height="209" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://psiconsult.github.io/media/posts/2/responsive/leni-xs.jpg 300w ,https://psiconsult.github.io/media/posts/2/responsive/leni-sm.jpg 480w ,https://psiconsult.github.io/media/posts/2/responsive/leni-md.jpg 768w ,https://psiconsult.github.io/media/posts/2/responsive/leni-lg.jpg 1024w">
+<figure id="leni" style="text-align: center;"><img decoding="async" loading="lazy" title="Maria Leni Benfica" src="https://psiconsult.com.br/media/posts/2/leni.jpg" width="200" height="209" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://psiconsult.com.br/media/posts/2/responsive/leni-xs.jpg 300w ,https://psiconsult.com.br/media/posts/2/responsive/leni-sm.jpg 480w ,https://psiconsult.com.br/media/posts/2/responsive/leni-md.jpg 768w ,https://psiconsult.com.br/media/posts/2/responsive/leni-lg.jpg 1024w">
 <figcaption>
 <h6>Maria Leni Benfica (CRP 06/51074)<br>PSICOTERAPEUTA E ORIENTADORA PROFISSIONAL<br><a href="https://api.whatsapp.com/send?phone=5511981253218">[fi=message-circle]</a> <a href="https://br.linkedin.com/in/leni-benfica-b6778332">[fi=linkedin]</a></h6>
 </figcaption>
@@ -80,7 +80,7 @@
 <li>Realiza atendimento psicológico a adolescentes e adultos, psicodiagnóstico e ludoterapia (psicoterapia infantil), Terapia de Casal e Família.</li>
 <li>Possui experiência em Psicoterapia Breve Ambulatorial e hospitalar, Medicina Preventiva, Avaliação Psicológica e acompanhamento psicoterapêutico pré e pós-cirúrgico pacientes com indicação de septação gástrica (cirurgia bariátrica) e a dependentes químicos, Gestão de Clínica de Retaguarda Hospitalar (longa permanência) e Residencial para Idosos</li>
 </ul>
-<figure id="samanta" style="text-align: center;"><img decoding="async" loading="lazy" title="Samanta Benfica Jarussi" src="https://psiconsult.github.io/media/posts/2/samanta.jpg" width="200" height="200" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://psiconsult.github.io/media/posts/2/responsive/samanta-xs.jpg 300w ,https://psiconsult.github.io/media/posts/2/responsive/samanta-sm.jpg 480w ,https://psiconsult.github.io/media/posts/2/responsive/samanta-md.jpg 768w ,https://psiconsult.github.io/media/posts/2/responsive/samanta-lg.jpg 1024w">
+<figure id="samanta" style="text-align: center;"><img decoding="async" loading="lazy" title="Samanta Benfica Jarussi" src="https://psiconsult.com.br/media/posts/2/samanta.jpg" width="200" height="200" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://psiconsult.com.br/media/posts/2/responsive/samanta-xs.jpg 300w ,https://psiconsult.com.br/media/posts/2/responsive/samanta-sm.jpg 480w ,https://psiconsult.com.br/media/posts/2/responsive/samanta-md.jpg 768w ,https://psiconsult.com.br/media/posts/2/responsive/samanta-lg.jpg 1024w">
 <figcaption>
 <h6>Samanta Benfica Jarussi<br>SENIOR RECRUITMENT SPECIALIST<br><a href="https://br.linkedin.com/in/samantajarussi">[fi=linkedin]</a></h6>
 </figcaption>

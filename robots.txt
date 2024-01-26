@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://psiconsult.github.io/sitemap.xml
+Sitemap: https://psiconsult.com.br/sitemap.xml
