@@ -1,1 +1,0 @@
-# psiconsult.github.io
