@@ -1,3 +1,3 @@
 Contact: contato@psiconsult.com.br
 Expires: 2050-01-01T00:00:00.000Z
-Canonical: https://psiconsult.com.br/security.txt
+Canonical: #PUBLII_RELATIVE_URL_BASE#/security.txt
